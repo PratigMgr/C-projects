@@ -1,0 +1,168 @@
+﻿<!--
+  File: MainWindow.xaml
+  Author: Pratig Thapa Magar
+  Date: 2025-11-30
+  Description:
+    Main window for the Assignment 4 Contact Manager.
+    Includes menu, data-entry form, and a DataGrid that displays contacts.
+-->
+
+<Window x:Class="Assignment4_ContactManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Contact Manager"
+        Height="520"
+        Width="820"
+        MinHeight="450"
+        MinWidth="700"
+        WindowStartupLocation="CenterScreen">
+
+    <DockPanel>
+
+        <!-- Menu bar -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Load From Database"
+                          Click="MenuFileLoad_Click"/>
+                <MenuItem Header="_Save All To Database"
+                          Click="MenuFileSave_Click"/>
+                <Separator/>
+                <MenuItem Header="E_xit"
+                          Click="MenuFileExit_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Contacts">
+                <MenuItem Header="_Add New Contact"
+                          Click="ButtonAdd_Click"/>
+                <MenuItem Header="_Update Selected Contact"
+                          Click="ButtonUpdate_Click"/>
+                <MenuItem Header="_Delete Selected Contact"
+                          Click="ButtonDelete_Click"/>
+                <Separator/>
+                <MenuItem Header="_Reset Form"
+                          Click="ButtonReset_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Help">
+                <MenuItem Header="_About"
+                          Click="MenuHelpAbout_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Main content area -->
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="10"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Form -->
+            <Grid Grid.Row="0" Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- First Name -->
+                <Label Grid.Column="0"
+                       Content="First Name:" Margin="0,0,0,66" TabIndex="0"/>
+                <TextBox x:Name="textBoxFirstName"
+                         Grid.Column="1" Margin="0,0,0,66" ToolTip="Enter the first name."/>
+
+                <!-- Last Name -->
+                <Label Grid.Column="0"
+                       Content="Last Name:"
+                       Margin="0,35,0,31" TabIndex="1"/>
+                <TextBox x:Name="textBoxLastName"
+                         Grid.Column="1"
+                         Margin="0,35,0,31" ToolTip="Enter the last name"/>
+                
+                <!-- Phone -->
+                <Label Grid.Column="0"
+                       Content="Phone:"
+                       Margin="0,70,0,0" TabIndex="3"/>
+                <TextBox x:Name="textBoxPhone"
+                         Grid.Column="1"
+                         Margin="0,70,0,0" ToolTip="Enter the phone number."/>
+                
+                <!-- Email -->
+                <Label Grid.Column="3"
+                       Content="Email:" Margin="0,0,0,66" TabIndex="4"/>
+                <TextBox x:Name="textBoxEmail"
+                         Grid.Column="4" Margin="0,0,0,66" ToolTip="Enter the email address"/>
+                
+                <!-- Category -->
+                <Label Grid.Column="3"
+                       Content="Category:"
+                       Margin="0,35,0,31" TabIndex="5"/>
+                <ComboBox x:Name="comboBoxCategory"
+                          Grid.Column="4"
+                          Margin="0,35,0,31"
+                          IsEditable="True" ToolTip="Choose the category from the list that you prefer.">
+                    <ComboBoxItem Content="Family"/>
+                    <ComboBoxItem Content="Friend"/>
+                    <ComboBoxItem Content="Business"/>
+                    <ComboBoxItem Content="School"/>
+                    <ComboBoxItem Content="Other"/>
+                </ComboBox>
+
+            </Grid>
+
+            <!-- DataGrid -->
+            <DataGrid x:Name="dataGridContacts"
+                      Grid.Row="2"
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True"
+                      SelectionMode="Single"
+                      SelectionChanged="DataGridContacts_SelectionChanged"
+                      Margin="0,0,0,10" ToolTip="Here, you can see the list of the added person information.">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}" Width="*"/>
+                    <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}" Width="*"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="200"/>
+                    <DataGridTextColumn Header="Phone" Binding="{Binding Phone}" Width="120"/>
+                    <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="120"/>
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+            <!-- Buttons -->
+            <StackPanel Grid.Row="3"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+
+                <Button x:Name="addButton" Content="_Add"
+                        Width="90"
+                        Margin="4"
+                        Click="ButtonAdd_Click" IsDefault="True" ToolTip="Click this button to add the information in the listbox"/>
+
+                <Button x:Name="ButtonUpdate" Content="_Update"
+                        Width="90"
+                        Margin="4"
+                        Click="ButtonUpdate_Click" ToolTip="Click this button to update the changes in the information."/>
+
+                <Button x:Name="ButtonDelete" Content="_Delete"
+                        Width="90"
+                        Margin="4"
+                        Click="ButtonDelete_Click" ToolTip="CLick this button to remove the innformation in the list."/>
+
+                <Button x:Name="ResetButton" Content="_Reset Form"
+                        Width="100"
+                        Margin="4"
+                        Click="ButtonReset_Click" ToolTip="Click this button to reset the textbox field for another information detal in the list."/>
+
+                <Button x:Name="ButtonExit" Content="_Exit"
+                        Width="100"
+                        Margin="4"
+                        Click="ButtonExit_Click" IsCancel="True" ToolTip="Click this button to exit from the application."/>
+            </StackPanel>
+        </Grid>
+
+    </DockPanel>
+</Window>

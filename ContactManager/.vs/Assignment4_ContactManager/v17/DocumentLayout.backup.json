@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\sqlcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\sqlcontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment4_contactmanager\\assignment4_contactmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245156D8-D966-45A6-B92D-E863D865DF26}|Assignment4_ContactManager\\Assignment4_ContactManager.csproj|solutionrelative:assignment4_contactmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Assignment4_ContactManager\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABIBAAAAAAAAAAAmwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:18:17.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\Validators.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\Validators.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\Validators.cs",
+              "RelativeToolTip": "Assignment4_ContactManager\\Validators.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:21:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\Contact.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\Contact.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\Contact.cs",
+              "RelativeToolTip": "Assignment4_ContactManager\\Contact.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:19:35.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlContactRepository.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\SqlContactRepository.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\SqlContactRepository.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\SqlContactRepository.cs",
+              "RelativeToolTip": "Assignment4_ContactManager\\SqlContactRepository.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:20:45.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\IContactRepository.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\IContactRepository.cs",
+              "RelativeToolTip": "Assignment4_ContactManager\\IContactRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:19:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\App.config",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\App.config",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\App.config",
+              "RelativeToolTip": "Assignment4_ContactManager\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-01T14:24:06.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\MainWindow.xaml",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment4_ContactManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T14:18:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Assignment4_ContactManager\\AssemblyInfo.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment4_ContactManager\\Assignment4_ContactManager\\AssemblyInfo.cs",
+              "RelativeToolTip": "Assignment4_ContactManager\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:38:18.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

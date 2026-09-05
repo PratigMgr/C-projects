@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\standarddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\standarddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\customdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\customdeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|c:\\dc college\\s3\\csco orienting programming\\projects_assignment\\assignment_3_deck_builder\\assignment_3_deck_builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1DAC273-9EB4-4218-92F0-297AF0029BD6}|Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder.csproj|solutionrelative:assignment_3_deck_builder\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\Card.cs",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\Card.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\Card.cs",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\Card.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:35:51.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomDeck.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\CustomDeck.cs",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\CustomDeck.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\CustomDeck.cs",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\CustomDeck.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:39:49.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StandardDeck.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\StandardDeck.cs",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\StandardDeck.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\StandardDeck.cs",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\StandardDeck.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:37:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwJUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:55:08.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\Deck.cs",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\Deck.cs",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\Deck.cs",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\Deck.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:36:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment_3_Deck_Builder\\MainWindow.xaml",
+              "ToolTip": "C:\\DC College\\S3\\CSCO Orienting Programming\\Projects_Assignment\\Assignment_3_Deck_Builder\\Assignment_3_Deck_Builder\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment_3_Deck_Builder\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T13:55:22.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
