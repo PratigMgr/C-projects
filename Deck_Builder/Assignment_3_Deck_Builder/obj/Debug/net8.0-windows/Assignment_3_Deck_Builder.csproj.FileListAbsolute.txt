@@ -18,3 +18,24 @@ C:\DC College\S3\CSCO Orienting Programming\Projects_Assignment\Assignment_3_Dec
 C:\DC College\S3\CSCO Orienting Programming\Projects_Assignment\Assignment_3_Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.pdb
 C:\DC College\S3\CSCO Orienting Programming\Projects_Assignment\Assignment_3_Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.genruntimeconfig.cache
 C:\DC College\S3\CSCO Orienting Programming\Projects_Assignment\Assignment_3_Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\ref\Assignment_3_Deck_Builder.dll
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\bin\Debug\net8.0-windows\Assignment_3_Deck_Builder.exe
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\bin\Debug\net8.0-windows\Assignment_3_Deck_Builder.deps.json
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\bin\Debug\net8.0-windows\Assignment_3_Deck_Builder.runtimeconfig.json
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\bin\Debug\net8.0-windows\Assignment_3_Deck_Builder.dll
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\bin\Debug\net8.0-windows\Assignment_3_Deck_Builder.pdb
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder_MarkupCompile.cache
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder_MarkupCompile.lref
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.g.resources
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.AssemblyInfoInputs.cache
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.AssemblyInfo.cs
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.csproj.CoreCompileInputs.cache
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.sourcelink.json
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.dll
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\refint\Assignment_3_Deck_Builder.dll
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.pdb
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\Assignment_3_Deck_Builder.genruntimeconfig.cache
+C:\Users\grize\OneDrive\Documents\GitHub\C# projects\Deck_Builder\Assignment_3_Deck_Builder\obj\Debug\net8.0-windows\ref\Assignment_3_Deck_Builder.dll
