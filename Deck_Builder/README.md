@@ -4,7 +4,7 @@ A desktop card deck simulator built with WPF, demonstrating inheritance, polymor
 
 ![.NET](https://img.shields.io/badge/.NET-WPF-512BD4) ![C#](https://img.shields.io/badge/Language-C%23-239120)
 
-![Deck Builder screenshot](./screenshots/example02.png)
+![Deck Builder screenshot](./Screenshots/example02.png)
 
 ## Overview
 
@@ -43,7 +43,7 @@ MainWindow.xaml.cs→ UI layer: wires buttons to deck operations, handles input 
 | Randomization | Fisher-Yates shuffle (`System.Random`) |
 | Data Binding | `ListBox.ItemsSource` bound directly to `List<Card>` |
 
-![Deck Builder screenshot](./screenshots/example01.png)
+![Deck Builder screenshot](./Screenshots/example01.png)
 
 ## Getting Started
 
