@@ -1,4 +1,4 @@
-# Contact Manager (WPF / .NET 8 / SQL Server)
+## Contact Manager (WPF / .NET 8 / SQL Server)
 
 A desktop contact management application built with WPF (.NET 8) and SQL Server, demonstrating a clean separation between UI, business/validation logic, and data access.
 
