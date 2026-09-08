@@ -1,4 +1,4 @@
-# Deck Builder (WPF / .NET / C#)
+## Deck Builder (WPF / .NET / C#)
 
 A desktop card deck simulator built with WPF, demonstrating inheritance, polymorphism, and encapsulation through a small but real class hierarchy — not just a UI over a list.
 
